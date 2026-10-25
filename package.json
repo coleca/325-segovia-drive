@@ -2,6 +2,9 @@
   "name": "325-segovia-drive",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=24.22.1 <25"
+  },
   "scripts": {
     "start": "npx serve . -l 3000"
   },
