@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "@vercel/analytics": "^1.4.1"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
   }
 }
